@@ -47,11 +47,10 @@ The project is based on two datasets:
 
 | File/Folder | Description |
 |-------------|-------------|
-| `notebooks/1_data_scraping.ipynb` | Web scraping logic for collecting stock data |
-| `notebooks/2_modeling.ipynb`      | Model development, evaluation, and comparison |
-| `documentation/final_presentation.pptx` | Project summary and visualized results |
-| `documentation/model_results.xlsx` |  Model performance comparison table |
-| `README.md`                      | Project overview and documentation |
+| [`notebooks/1_data_scraping.ipynb`](notebooks/1_data_scraping.ipynb) | Web scraping logic for collecting stock data |
+| [`notebooks/2_modeling.ipynb`](notebooks/2_modeling.ipynb)      | Model development, evaluation, and comparison |
+| [`documentation/final_presentation.pptx`](documentation/final_presentation.pptx) | Project summary and visualized results |
+| [`documentation/model_results.xlsx`](documentation/model_results.xlsx) |  Model performance comparison table |
 
 ---
 
